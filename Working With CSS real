@@ -5,7 +5,7 @@
 <body>
 <h1 class="my-white-font">Write your first CSS Example</h1>
 <p class="my-font">This is Paragraph.</p>
-<div>some text<span class ="small-box">
+<div><span class ="small-box"> some text</span>
 </div>
 </div><span class="small-green-box">more text</span>
 </div>
